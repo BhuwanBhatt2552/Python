@@ -70,5 +70,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## ✉️ Connect With Me
 
 - **Author:** Bhuwan Bhatt
-- **GitHub:** [BhuwanBhatt2552]([https://github.com](https://github.com/BhuwanBhatt2552))
+- **GitHub:** [BhuwanBhatt2552](https://github.com/BhuwanBhatt2552)
 - **Email:** bhuvan.navneet2552@gmail.com
