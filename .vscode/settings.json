@@ -1,0 +1,9 @@
+{
+    "python-envs.pythonProjects": [
+        {
+            "path": "oops/start/ch 1",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
