@@ -71,4 +71,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - **Author:** Bhuwan Bhatt
 - **GitHub:** [BhuwanBhatt2552](https://github.com/BhuwanBhatt2552)
-- **Email:** bhuvan.navneet2552@gmail.com
+
