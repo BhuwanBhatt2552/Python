@@ -18,11 +18,9 @@ Welcome to my Python repository! This space serves as my personal workspace for 
 
 The code is organized into logical modules to easily track core topics and progressive learning steps:
 
-*   **`01_python_basics/`** — Core syntax, loops, data structures (lists, dicts), and functional programming paradigms.
-*   **`02_oop_concepts/`** — Object-Oriented Programming principles including classes, inheritance, polymorphism, and encapsulation.
-*   **`03_data_structures_algorithms/`** — Standard problem-solving exercises, sorting, searching, and custom data structure implementations.
-*   **`04_data_science_foundations/`** — Hands-on practices with foundational data toolkits: `NumPy`, `Pandas`, and `Matplotlib`/`Seaborn`.
-*   **`05_ai_ml_exercises/`** — Implementation of core machine learning algorithms (regression, classification, clustering) using `Scikit-Learn` and foundational deep learning tests.
+*   **`01_python_basics/`** 
+*   **`02_oop_concepts/`** 
+*   **'Working_wtih_Files/'**
 
 ---
 
