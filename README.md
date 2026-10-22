@@ -19,8 +19,8 @@ Welcome to my Python repository! This space serves as my personal workspace for 
 The code is organized into logical modules to easily track core topics and progressive learning steps:
 
 *   **`01_python_basics/`** 
-*   **`02_oop_concepts/`** 
-*   **'Working_wtih_Files/'**
+*   **`02_OOPs_Concepts`** 
+*   **'03_Working_wtih_Files/'**
 
 ---
 
