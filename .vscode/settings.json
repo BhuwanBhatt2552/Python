@@ -1,0 +1,60 @@
+{
+    "python-envs.pythonProjects": [
+        {
+            "path": "oops/start/ch 1",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+
+
+
+    "debug.breakpointsView.presentation": "tree",
+    "debug.console.fontSize": 14,
+    
+    "chat.editor.fontSize": 16,
+    "chat.fontSize": 16,
+        
+    "workbench.colorTheme": "Visual Studio Light - C++",
+    "workbench.preferredLightColorTheme": "Visual Studio Dark",
+    "workbench.settings.applyToAllProfiles": [
+        "editor.fontSize",
+        "chat.fontSize",
+        "chat.editor.fontSize",
+        "debug.console.fontSize",
+        "scm.inputFontSize",
+        "terminal.integrated.fontSize",
+        "markdown.preview.fontSize"
+    ],
+    
+    "scm.inputFontSize": 14,
+
+    "terminal.integrated.tabs.location": "left",
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontWeight": "normal",
+    
+    "markdown.preview.fontSize": 14,
+    "security.workspace.trust.untrustedFiles": "open",
+    
+    "vscode-edge-devtools.webhintInstallNotification": true,
+    
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.fontWeight": "normal",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    
+    "window.density.layout": "compact",
+    "window.autoDetectColorScheme": true,
+    "window.autoDetectHighContrast": false,
+
+    "code-runner.runInTerminal": true,
+    "explorer.confirmDelete": false,
+    
+    
+    "json.schemas": [
+
+    ]
+
+}
