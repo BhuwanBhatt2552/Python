@@ -35,7 +35,7 @@
     "terminal.integrated.fontSize": 15,
     "terminal.integrated.fontWeight": "normal",
     
-    "markdown.preview.fontSize": 14,
+    "markdown.preview.fontSize": 12,
     "security.workspace.trust.untrustedFiles": "open",
     
     "vscode-edge-devtools.webhintInstallNotification": true,
