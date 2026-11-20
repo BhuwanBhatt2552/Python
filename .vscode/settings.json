@@ -45,7 +45,7 @@
     "editor.fontWeight": "normal",
     "editor.fontFamily": "Cascadia Code",
     
-    "window.density.layout": "compact",
+    "window.density.layout": "default",
     "window.autoDetectColorScheme": true,
     "window.autoDetectHighContrast": false,
 
